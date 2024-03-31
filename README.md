@@ -8,14 +8,17 @@ KPI Used:
     Category,
     Location,
     Year, Quarter, Month  
+    
 2)Successful Projects:-
      Amount Raised,
      Total backers,
      Avg days required for 
      Successful projects
+     
 3)Top Successful Projects by
      Amount Raised
      No Of Backers
+     
 4)Overall % of Successful Projects.
     % of Successful Projects
       by category.
