@@ -28,15 +28,20 @@ KPI Used:
      Goal Range
      
 We were provided with the raw data set, we made a study and performed data cleaning & modelling techniques such as 
+
 • removing errors
+
 • converting epoch time columns to 
    local time 
+
 • creating calendar table on
    created_at column which       
    includes,year, Quarter, month,month 
   no, financial month,financial quarter 
   etc.
+
 • converting goal amount to USD 
+
 • And finally modelling the data by  
   establishing relationship.
   
