@@ -3,23 +3,23 @@ Worked on a real world data of an online crowdfunding platform and provided data
 
 KPI Used:
 
-1)Total no of projects by:-
+1) Total no of projects by:-
     Outcome,
     Category,
     Location,
     Year, Quarter, Month  
     
-2)Successful Projects:-
+2) Successful Projects:-
      Amount Raised,
      Total backers,
      Avg days required for 
      Successful projects
      
-3)Top Successful Projects by
+3) Top Successful Projects by
      Amount Raised
      No Of Backers
      
-4)Overall % of Successful Projects.
+4) Overall % of Successful Projects.
     % of Successful Projects
       by category.
     % of Successful Projects by 
