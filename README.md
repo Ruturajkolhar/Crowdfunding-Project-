@@ -3,17 +3,9 @@ Unable to add all files due to larger size, however u can follow it on my drive 
 
 Worked on a real world data of an online crowdfunding platform and provided data driven insights through interactive dashboards created using Excel, Tableau, Power BI, & SQL queries, based on client needs & KPI'S requirements which helped the platform administrators to monitor the  performance of multiple campaigns on their platform.
 
-### KPI Used:
+A marketing team of a crowdfunding platfrom needed insights about the performance of the platform  and also the stratigies to improve the performance of the platform, so we solved their buisness problem by assisting the key audience of the platform to moniter the performance and we also provided the stratigies to improve the platform.
 
-> Total no of projects by Outcome, Category, Location, Year, Quarter, Month.
-  
-> Successful Projects by Amount Raised, Total backers, Avg days required for Successful projects.
-     
-> Top Successful Projects by Amount Raised, No Of Backers.
-
-> Overall % of Successful Projects by % of Successful Projects by category, % of Successful Projects by Year, Month, % of Successful Projects by Goal Range.
-     
-### We were provided with the raw data set, we made a study and performed data cleaning & modelling techniques such as 
+### we made a study on the provided dataset and performed some data transformation like: 
 
 > removing errors
 
@@ -29,6 +21,27 @@ Worked on a real world data of an online crowdfunding platform and provided data
 > Evaluated the data,created insights, Discussed the purpose and goals of the dashboard defined the key mertics and information that needed, implemented the visuals 
 collaborating with team members resulting in improving efficiency and productivity and provided the solution by creating dashboard.
 
+### insights
+In dashboard we provided them the performace of the platform like:
+> The No of projects were increasing year by year
+> The Top successful project by No of backers and amount raised.
+> The Top contributing countries in the project based on no of backers, no of projects, and amount raised.
+> 
+#### And we also finded some insights which were affecting the functionality of the platform like:
+> The engagement of the backers in the project was less due to not giving of good rewards.
+> Also the engagemant on the platform was less due to not creating of the campagins.
+> Most of the project failed due not effective funding stratigies.
+
+### Suggessions
+So by taking all this factor into account we developed some stratigies and presented it like:
+> we suggested them to improve marketing stratigies
+> Create campaging for the engagement on the platform
+> And provide good rewards which will attract the backers leading to increase in participation in the project  
+> Develop Effective Funding stratigies
+> Keep backers always engage.
+
+### Result
+> So by applying of all these stratigies there was improvisation on the platform.
 
 ### Conclusion:
 Crowdfunding project offers a unique opportunity for the creators to bring their ideas to life by leveraging the power of crowd.It provides creators with valuable entrepreneurial experience from campaign planning and execution to production and fulfillment, creators gain hands on experience in various aspects on business management.
