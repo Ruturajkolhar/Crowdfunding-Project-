@@ -1,9 +1,9 @@
 # Crowdfunding-Project-
 Unable to add all files due to larger size, however u can follow it on my drive link --> https://drive.google.com/drive/folders/1ddxXz6fbSNKzZK1dHgrNZdEknfTF-GO5?usp=sharing
 
-Worked on a real world data of an online crowdfunding platform and provided data driven insights through interactive dashboards created using Excel, Tableau, Power BI, & SQL queries, based on client needs & KPI'S requirements which helped the platform administrators to monitor the  performance of multiple campaigns on their platform.
+##### Worked on a real world data of an online crowdfunding platform and provided data driven insights through interactive dashboards created using Excel, Tableau, Power BI, & SQL queries, based on client needs & KPI'S requirements which helped the platform administrators to monitor the  performance of multiple campaigns on their platform.
 
-A marketing team of a crowdfunding platfrom needed insights about the performance of the platform  and also the stratigies to improve the performance of the platform, so we solved their buisness problem by assisting the key audience of the platform to moniter the performance and we also provided the stratigies to improve the platform.
+##### A marketing team of a crowdfunding platfrom needed insights about the performance of the platform  and also the stratigies to improve the performance of the platform, so we solved their buisness problem by assisting the key audience of the platform to moniter the performance and we also provided the stratigies to improve the platform.
 
 ### we made a study on the provided dataset and performed some data transformation like: 
 
@@ -21,8 +21,8 @@ A marketing team of a crowdfunding platfrom needed insights about the performanc
 > Evaluated the data,created insights, Discussed the purpose and goals of the dashboard defined the key mertics and information that needed, implemented the visuals 
 collaborating with team members resulting in improving efficiency and productivity and provided the solution by creating dashboard.
 
-### insights
-In dashboard we provided them the performace of the platform like:
+### Insights
+##### In dashboard we provided them the performace of the platform like:
 
 > The No of projects were increasing year by year
 
