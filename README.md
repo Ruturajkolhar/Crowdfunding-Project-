@@ -13,7 +13,7 @@ Worked on a real world data of an online crowdfunding platform and provided data
 
 > Overall % of Successful Projects by % of Successful Projects by category, % of Successful Projects by Year, Month, % of Successful Projects by Goal Range.
      
-We were provided with the raw data set, we made a study and performed data cleaning & modelling techniques such as 
+#### We were provided with the raw data set, we made a study and performed data cleaning & modelling techniques such as 
 
 > removing errors
 
