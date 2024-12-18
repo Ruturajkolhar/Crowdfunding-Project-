@@ -29,6 +29,7 @@ Worked on a real world data of an online crowdfunding platform and provided data
 > Evaluated the data,created insights, Discussed the purpose and goals of the dashboard defined the key mertics and information that needed, implemented the visuals 
 collaborating with team members resulting in improving efficiency and productivity and provided the solution by creating dashboard.
 
+
 ### Conclusion:
 Crowdfunding project offers a unique opportunity for the creators to bring their ideas to life by leveraging the power of crowd.It provides creators with valuable entrepreneurial experience from campaign planning and execution to production and fulfillment, creators gain hands on experience in various aspects on business management.
 Working on such real world data enhanced our expertise in data analysis, visualisation, and dashboard development also provided us an opportunity to dive in valuable insights (key metrics and factors) into crowdfunding industry which enabled us to effectively communicate the findings to key audiance by which they can take inform strategic decision and improve functionality.
