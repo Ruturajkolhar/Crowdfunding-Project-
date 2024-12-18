@@ -7,14 +7,14 @@ Unable to add all files due to larger size, however u can follow it on my drive 
 
 ### we made a study on the provided dataset and performed some data transformation like: 
 
-> removing errors
+> Removing errors
 
-> converting epoch time columns to 
+> Converting epoch time columns to 
    local time 
 
-> creating calendar table on created_at column which includes,year, Quarter, month,month  no, financial month,financial quarter etc.
+> Creating calendar table on created_at column which includes,year, Quarter, month,month  no, financial month,financial quarter etc.
 
-> converting goal amount to USD 
+> Converting goal amount to USD 
 
 > And finally modelling the data by establishing relationship.
   
