@@ -1,5 +1,5 @@
 # Crowdfunding-Project-
-Unable to add all files due to larger size,however u can follow it on my drive link --> https://drive.google.com/drive/folders/1ddxXz6fbSNKzZK1dHgrNZdEknfTF-GO5?usp=sharing
+Unable to add all files due to larger size, however u can follow it on my drive link --> https://drive.google.com/drive/folders/1ddxXz6fbSNKzZK1dHgrNZdEknfTF-GO5?usp=sharing
 
 Worked on a real world data of an online crowdfunding platform and provided data driven insights through interactive dashboards created using Excel, Tableau, Power BI, & SQL queries, based on client needs & KPI'S requirements which helped the platform administrators to monitor the  performance of multiple campaigns on their platform.
 
