@@ -39,7 +39,7 @@ collaborating with team members resulting in improving efficiency and productivi
 > Most of the project failed due not effective funding stratigies.
 
 ### Suggessions
-So by taking all this factor into account we developed some stratigies and presented it like:
+##### So by taking all this factor into account we developed some stratigies and presented it like:
 
 > we suggested them to improve marketing stratigies
 
