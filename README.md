@@ -23,24 +23,37 @@ collaborating with team members resulting in improving efficiency and productivi
 
 ### insights
 In dashboard we provided them the performace of the platform like:
+
 > The No of projects were increasing year by year
+
 > The Top successful project by No of backers and amount raised.
+
 > The Top contributing countries in the project based on no of backers, no of projects, and amount raised.
-> 
+
 #### And we also finded some insights which were affecting the functionality of the platform like:
+
 > The engagement of the backers in the project was less due to not giving of good rewards.
+
 > Also the engagemant on the platform was less due to not creating of the campagins.
+
 > Most of the project failed due not effective funding stratigies.
 
 ### Suggessions
 So by taking all this factor into account we developed some stratigies and presented it like:
-> we suggested them to improve marketing stratigies
-> Create campaging for the engagement on the platform
-> And provide good rewards which will attract the backers leading to increase in participation in the project  
-> Develop Effective Funding stratigies
-> Keep backers always engage.
 
-### Result
+> we suggested them to improve marketing stratigies
+
+> Create campaging for the engagement on the platform
+
+> And provide good rewards which will attract the backers leading to increase in participation in the project
+
+> Develop Effective Funding stratigies
+
+> Keep backers always engage.
+> 
+
+### Result:
+
 > So by applying of all these stratigies there was improvisation on the platform.
 
 ### Conclusion:
