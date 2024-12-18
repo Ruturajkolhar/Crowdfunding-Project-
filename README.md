@@ -5,7 +5,8 @@ Unable to add all files due to larger size, however u can follow it on my drive 
 
 ##### A marketing team of a crowdfunding platfrom needed insights about the performance of the platform  and also the stratigies to improve the performance of the platform, so we solved their buisness problem by assisting the key audience of the platform to moniter the performance and we also provided the stratigies to improve the platform.
 
-### we made a study on the provided dataset and performed some data transformation like: 
+### Transformations
+##### we made a study on the provided dataset and performed some data transformation like: 
 
 > Removing errors
 
